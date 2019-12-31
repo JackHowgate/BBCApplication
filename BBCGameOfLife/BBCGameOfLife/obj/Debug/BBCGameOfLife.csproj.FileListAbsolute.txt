@@ -1,0 +1,11 @@
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\bin\Debug\BBCGameOfLife.exe.config
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\bin\Debug\BBCGameOfLife.exe
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\bin\Debug\BBCGameOfLife.pdb
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\obj\Debug\BBCGameOfLife.csprojAssemblyReference.cache
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\obj\Debug\BBCGameOfLife.Properties.Resources.resources
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\obj\Debug\BBCGameOfLife.csproj.GenerateResource.cache
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\obj\Debug\BBCGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\obj\Debug\BBCGameOfLife.exe
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\obj\Debug\BBCGameOfLife.pdb
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\obj\Debug\BBCGameOfLife.StartupForm.resources
+C:\Users\jackh\Desktop\GitBBC\trunk\BBCGameOfLife\BBCGameOfLife\obj\Debug\BBCGameOfLife.GameForm.resources
